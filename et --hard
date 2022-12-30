@@ -1,0 +1,42 @@
+[33mcommit cb72b8181a8476173ddf0670ab819dc94ff499fd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Egor <gargamel54463@yandex.ru>
+Date:   Fri Dec 30 17:38:58 2022 +0300
+
+    add two section + adaption 575px final
+
+[33mcommit 565120fb4c29c917f685ddd4b0eac03038bc4eff[m
+Merge: cc03a72 f60959c
+Author: Egor <gargamel54463@yandex.ru>
+Date:   Fri Dec 30 17:37:22 2022 +0300
+
+    add two section + adaption 575px
+
+[33mcommit cc03a72e7b7651a995320efc2b05f719a9838cb6[m
+Author: Egor <gargamel54463@yandex.ru>
+Date:   Fri Dec 30 17:36:58 2022 +0300
+
+    add two section + adaption 575px
+
+[33mcommit f60959c660c09df7fc03ac2c5a27e7e31d80dde4[m
+Author: Egor <gargamel54463@yandex.ru>
+Date:   Fri Dec 30 17:19:09 2022 +0300
+
+    add two section + adaption 575px
+
+[33mcommit fda15a327a4e12eedfc9019862f48162a72f9885[m
+Author: Egor <gargamel54463@yandex.ru>
+Date:   Fri Dec 30 14:44:28 2022 +0300
+
+    add fonts and style.min.css add sass cd
+
+[33mcommit e05cc0769d657dbeaf919ab22d4c036455e40aba[m
+Author: Egor <gargamel54463@yandex.ru>
+Date:   Fri Dec 30 14:30:09 2022 +0300
+
+    add style.sass
+
+[33mcommit 0715e750502db3f74cb7d091a0773a2ebcbacf95[m
+Author: Egor <gargamel54463@yandex.ru>
+Date:   Fri Dec 30 14:26:50 2022 +0300
+
+    first_commit
